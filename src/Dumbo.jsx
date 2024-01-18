@@ -1,3 +1,5 @@
+//state initializer function
+
 import { useState } from "react";
 
 function generateGameBoard() {
